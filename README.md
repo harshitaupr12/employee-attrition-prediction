@@ -17,11 +17,20 @@ This helps HR teams take data-driven decisions to reduce attrition.
 - Prediction of employee attrition probability  
 
 ## 📓 Notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<username>/employee-attrition-prediction/blob/main/attrition.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/employee-attrition-prediction/blob/main/attrition.ipynb)
+
+> Replace `<your-username>` with your GitHub username.  
+> Example: `https://github.com/Harshi/employee-attrition-prediction/...`
 
 ## 📊 Sample Output
 ![Attrition Graph](images/output.png)
 
-## 🚀 How to Run (Local)
+> **Note:** If you run the notebook in Colab, plots will display dynamically.  
+> The `images/output.png` is just an example saved locally.
+
+## 🚀 How to Run Locally
+
+### 1️⃣ Clone the repository
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/<your-username>/employee-attrition-prediction.git
+cd employee-attrition-prediction
